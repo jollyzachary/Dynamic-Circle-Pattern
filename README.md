@@ -17,6 +17,12 @@ This project creates a visually appealing animation using HTML5 canvas and JavaS
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in a web browser to view and interact with the animation.
 
+## Video
+
+https://github.com/jollyzachary/Dynamic-Circle-Pattern/assets/129251882/c2cb6ab0-1ecb-4948-8970-172593e99109
+
+
+
 ## Screenshots
 
 ![Dynamic Circle Pattern - Screenshot 1](dynamicCircle1.png)
