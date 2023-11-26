@@ -19,8 +19,8 @@ This project creates a visually appealing animation using HTML5 canvas and JavaS
 
 ## Screenshots
 
-![Dynamic Circle Pattern - Screenshot 1](images/dynamicCircle1.png)
-![Dynamic Circle Pattern - Screenshot 2](images/dynamicCircle2.png)
+![Dynamic Circle Pattern - Screenshot 1](dynamicCircle1.png)
+![Dynamic Circle Pattern - Screenshot 2](dynamicCircle2.png)
 
 
 ## Contact
